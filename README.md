@@ -1,5 +1,5 @@
 
-# 👨‍🔬 Hi, I’m Shohel Shohel Ul Islam  
+# 👨‍🔬 Hi, I’m Shohel Ul Islam  
 **Research Associate**  
 Department of Genetic Engineering and Biotechnology  
 Laboratory of Functional Genomics & Proteomics  
@@ -79,7 +79,7 @@ _See full list in the `publications` folder or visit [Google Scholar](https://sc
 
 ## 🎓 Academic Background  
 ### MSc in Genetic Engineering & Biotechnology  
-*2024 – 2025 (Ongoing)*  
+*2024 – 2025*  
 **Jashore University of Science and Technology**  
 **Thesis**: Comparative genome-wide analysis of NRT gene family in sorghum and barley under abiotic stresses
 
