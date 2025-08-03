@@ -1,13 +1,12 @@
-## Hi, I’m Shohel Islam (MS) 👋
 
-# 👨‍🔬 Md Shohel Ul Islam  
+# 👨‍🔬 Hi, I’m Shohel Shohel Ul Islam  
 **Research Associate**  
 Department of Genetic Engineering and Biotechnology  
 Laboratory of Functional Genomics & Proteomics  
 Jashore University of Science and Technology, Bangladesh  
 
 📧 shohelislam170620@gmail.com | 📱 +880 1963-474973  
-[Google Scholar](https://scholar.google.com) | [ORCID](https://orcid.org) | [LinkedIn](https://linkedin.com)
+[Google Scholar](https://scholar.google.com/citations?user=OPVEdUsAAAAJ&hl=en) | [ORCID](https://orcid.org/0000-0001-7725-3899) | [LinkedIn](https://www.linkedin.com/in/muhammad-shohel-428002194/)
 
 ---
 
@@ -51,7 +50,7 @@ Highlights:
 - **CPA Genes in Rice & Hormone Response** – *PLoS ONE, 2025*  
 - **LIM Gene Family in Grapevine** – *Plant Molecular Biology Reporter, 2023*  
 
-_See full list in the `publications` folder or visit [Google Scholar](https://scholar.google.com)._
+_See full list in the `publications` folder or visit [Google Scholar](https://scholar.google.com/citations?user=OPVEdUsAAAAJ&hl=en)._
 
 ---
 
