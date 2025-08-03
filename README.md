@@ -84,7 +84,7 @@ _See full list in the `publications` folder or visit [Google Scholar](https://sc
 **Thesis**: Comparative genome-wide analysis of NRT gene family in sorghum and barley under abiotic stresses
 
 ### BSc in Genetic Engineering & Biotechnology  
-*2018 – 2021*  
+*2018 – 2023*  
 **Jashore University of Science and Technology**  
 **Thesis**: In-vitro regeneration of chickpea (Cicer arietinum L.)
 
