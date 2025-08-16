@@ -98,15 +98,6 @@ _See full list in the `publications` folder or visit [Google Scholar](https://sc
 
 ---
 
-## 📁 Repository Suggestions  
-For better visibility of your work, consider adding sub-repositories for:
-- `RNA-Seq_Pipeline/`
-- `lncRNA_Analysis/`
-- `WGS_AMR_Snippet/`
-- `Promoter_Elements_and_TF_Analysis/`
-- `SNP_Annotation_Tools/`
-
----
 
 ## 🤝 Let's Collaborate  
 I’m open to collaborations in plant genomics, AMR prediction, gene family evolution, and transcriptomic data analysis. Feel free to reach out.
